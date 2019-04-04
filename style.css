@@ -7,15 +7,16 @@ body,html{
 }
 #div{
 	margin: 0px auto;
-	width: 1250px;
+	width: 1600px;
 	height: 400px;
 	padding-top: 150px;
 }
 #div div{
 	float: left;
 	background-color: white;
-	margin-left: 28px;
+	margin-left: 36px;
 	height: 180px;
+	margin-top:30px;
 }
 #div div img{
 	height: 120px;
