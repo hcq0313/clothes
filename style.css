@@ -1,0 +1,34 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body,html{
+	background: #b3d4fc;
+}
+#div{
+	margin: 0px auto;
+	width: 1250px;
+	height: 400px;
+	padding-top: 150px;
+}
+#div div{
+	float: left;
+	background-color: white;
+	margin-left: 28px;
+	height: 180px;
+}
+#div div img{
+	height: 120px;
+	padding: 10px;
+}
+#div div p{
+	line-height: 25px;
+	text-align: center;
+	font-size: 18px;
+}
+#div1:hover,#div2:hover,#div3:hover,#div4:hover,#div5:hover,#div6:hover{
+	transform: scale(1.8);
+}
+.header-area{
+	height: 25px;
+}
